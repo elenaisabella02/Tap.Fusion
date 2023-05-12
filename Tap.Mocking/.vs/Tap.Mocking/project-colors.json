@@ -35,7 +35,17 @@
       "ProjectGuid": "60aad2da-b7d5-435b-a9a5-0a07ab1a6fbf",
       "DisplayName": "Tap.Fusion.Server",
       "ColorIndex": 5
+    },
+    "c16f9f94-cca1-4d85-acfc-b88e5e4cb720": {
+      "ProjectGuid": "c16f9f94-cca1-4d85-acfc-b88e5e4cb720",
+      "DisplayName": "Tap.Fusion.Server",
+      "ColorIndex": 6
+    },
+    "7d1f0c5f-7ba6-4edd-bf58-131d468e406c": {
+      "ProjectGuid": "7d1f0c5f-7ba6-4edd-bf58-131d468e406c",
+      "DisplayName": "Tap.Fusion.Client",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 8
 }

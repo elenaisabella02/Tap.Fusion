@@ -7,11 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tap.Mocking.Domain", "Tap.M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tap.Mocking.Repository", "Tap.Mocking.Repository\Tap.Mocking.Repository.csproj", "{B7EAFC70-E3E3-432D-BB71-B19A51364108}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tap.Fusion.Server", "Tap.Fusion\Server\Tap.Fusion.Server.csproj", "{C16F9F94-CCA1-4D85-ACFC-B88E5E4CB720}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tap.Fusion.Server", "Tap.Fusion\Server\Tap.Fusion.Server.csproj", "{C16F9F94-CCA1-4D85-ACFC-B88E5E4CB720}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tap.Fusion.Client", "Tap.Fusion\Client\Tap.Fusion.Client.csproj", "{7D1F0C5F-7BA6-4EDD-BF58-131D468E406C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tap.Fusion.Client", "Tap.Fusion\Client\Tap.Fusion.Client.csproj", "{7D1F0C5F-7BA6-4EDD-BF58-131D468E406C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tap.Fusion.Shared", "Tap.Fusion\Shared\Tap.Fusion.Shared.csproj", "{1CB9B2E0-C944-489C-8D79-C19B7D839514}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tap.Fusion.Shared", "Tap.Fusion\Shared\Tap.Fusion.Shared.csproj", "{1CB9B2E0-C944-489C-8D79-C19B7D839514}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

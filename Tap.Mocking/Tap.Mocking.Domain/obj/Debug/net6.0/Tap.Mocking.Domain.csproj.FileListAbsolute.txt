@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Mocking.Domain\bin\Debug\net6.0\Tap.Mocking.Domain.deps.json
 C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Mocking.Domain\bin\Debug\net6.0\Tap.Mocking.Domain.dll
 C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Mocking.Domain\bin\Debug\net6.0\ref\Tap.Mocking.Domain.dll
@@ -13,3 +14,20 @@ C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.
 C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Mocking.Domain\obj\Debug\net6.0\Tap.Mocking.Domain.dll
 C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Mocking.Domain\obj\Debug\net6.0\ref\Tap.Mocking.Domain.dll
 C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Mocking.Domain\obj\Debug\net6.0\Tap.Mocking.Domain.pdb
+=======
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Domain\bin\Debug\net6.0\Tap.Mocking.Domain.deps.json
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Domain\bin\Debug\net6.0\Tap.Mocking.Domain.dll
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Domain\bin\Debug\net6.0\ref\Tap.Mocking.Domain.dll
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Domain\bin\Debug\net6.0\Tap.Mocking.Domain.pdb
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Domain\bin\Debug\net6.0\Tap.Mocking.Repository.dll
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Domain\bin\Debug\net6.0\Tap.Mocking.Repository.pdb
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Domain\obj\Debug\net6.0\Tap.Mocking.Domain.csproj.AssemblyReference.cache
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Domain\obj\Debug\net6.0\Tap.Mocking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Domain\obj\Debug\net6.0\Tap.Mocking.Domain.AssemblyInfoInputs.cache
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Domain\obj\Debug\net6.0\Tap.Mocking.Domain.AssemblyInfo.cs
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Domain\obj\Debug\net6.0\Tap.Mocking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Domain\obj\Debug\net6.0\Tap.Mocking.Domain.csproj.CopyComplete
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Domain\obj\Debug\net6.0\Tap.Mocking.Domain.dll
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Domain\obj\Debug\net6.0\ref\Tap.Mocking.Domain.dll
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Domain\obj\Debug\net6.0\Tap.Mocking.Domain.pdb
+>>>>>>> 83e8e8976abb465818eed397471be0abc789043f

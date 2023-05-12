@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Mocking.Repository\bin\Debug\net6.0\Tap.Mocking.Repository.deps.json
 C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Mocking.Repository\bin\Debug\net6.0\Tap.Mocking.Repository.dll
 C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Mocking.Repository\bin\Debug\net6.0\ref\Tap.Mocking.Repository.dll
@@ -10,3 +11,17 @@ C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.
 C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Mocking.Repository\obj\Debug\net6.0\Tap.Mocking.Repository.dll
 C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Mocking.Repository\obj\Debug\net6.0\ref\Tap.Mocking.Repository.dll
 C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Mocking.Repository\obj\Debug\net6.0\Tap.Mocking.Repository.pdb
+=======
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Repository\bin\Debug\net6.0\Tap.Mocking.Repository.deps.json
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Repository\bin\Debug\net6.0\Tap.Mocking.Repository.dll
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Repository\bin\Debug\net6.0\ref\Tap.Mocking.Repository.dll
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Repository\bin\Debug\net6.0\Tap.Mocking.Repository.pdb
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Repository\obj\Debug\net6.0\Tap.Mocking.Repository.csproj.AssemblyReference.cache
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Repository\obj\Debug\net6.0\Tap.Mocking.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Repository\obj\Debug\net6.0\Tap.Mocking.Repository.AssemblyInfoInputs.cache
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Repository\obj\Debug\net6.0\Tap.Mocking.Repository.AssemblyInfo.cs
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Repository\obj\Debug\net6.0\Tap.Mocking.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Repository\obj\Debug\net6.0\Tap.Mocking.Repository.dll
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Repository\obj\Debug\net6.0\ref\Tap.Mocking.Repository.dll
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Repository\obj\Debug\net6.0\Tap.Mocking.Repository.pdb
+>>>>>>> 83e8e8976abb465818eed397471be0abc789043f
