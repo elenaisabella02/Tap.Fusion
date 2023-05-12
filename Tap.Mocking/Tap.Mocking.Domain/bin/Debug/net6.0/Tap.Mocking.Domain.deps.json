@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tap.Mocking.Domain/1.0.0": {
+        "dependencies": {
+          "Tap.Mocking.Repository": "1.0.0"
+        },
+        "runtime": {
+          "Tap.Mocking.Domain.dll": {}
+        }
+      },
+      "Tap.Mocking.Repository/1.0.0": {
+        "runtime": {
+          "Tap.Mocking.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tap.Mocking.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tap.Mocking.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

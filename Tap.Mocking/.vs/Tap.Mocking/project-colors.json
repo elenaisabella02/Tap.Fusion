@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "a1ba1bd2-9130-43b7-ba20-aa486fb9f26e": {
+      "ProjectGuid": "a1ba1bd2-9130-43b7-ba20-aa486fb9f26e",
+      "DisplayName": "Tap.Mocking.Domain",
+      "ColorIndex": 0
+    },
+    "b7eafc70-e3e3-432d-bb71-b19a51364108": {
+      "ProjectGuid": "b7eafc70-e3e3-432d-bb71-b19a51364108",
+      "DisplayName": "Tap.Mocking.Repository",
+      "ColorIndex": 1
+    },
+    "01009b25-7814-4a78-a13a-f9c52689494d": {
+      "ProjectGuid": "01009b25-7814-4a78-a13a-f9c52689494d",
+      "DisplayName": "Tap.Fusion",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

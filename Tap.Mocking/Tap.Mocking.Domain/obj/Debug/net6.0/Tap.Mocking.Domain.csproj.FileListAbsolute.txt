@@ -1,0 +1,15 @@
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Domain\bin\Debug\net6.0\Tap.Mocking.Domain.deps.json
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Domain\bin\Debug\net6.0\Tap.Mocking.Domain.dll
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Domain\bin\Debug\net6.0\ref\Tap.Mocking.Domain.dll
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Domain\bin\Debug\net6.0\Tap.Mocking.Domain.pdb
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Domain\bin\Debug\net6.0\Tap.Mocking.Repository.dll
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Domain\bin\Debug\net6.0\Tap.Mocking.Repository.pdb
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Domain\obj\Debug\net6.0\Tap.Mocking.Domain.csproj.AssemblyReference.cache
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Domain\obj\Debug\net6.0\Tap.Mocking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Domain\obj\Debug\net6.0\Tap.Mocking.Domain.AssemblyInfoInputs.cache
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Domain\obj\Debug\net6.0\Tap.Mocking.Domain.AssemblyInfo.cs
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Domain\obj\Debug\net6.0\Tap.Mocking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Domain\obj\Debug\net6.0\Tap.Mocking.Domain.csproj.CopyComplete
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Domain\obj\Debug\net6.0\Tap.Mocking.Domain.dll
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Domain\obj\Debug\net6.0\ref\Tap.Mocking.Domain.dll
+C:\Users\Isabella\Desktop\Tap.Mocking\Tap.Mocking.Domain\obj\Debug\net6.0\Tap.Mocking.Domain.pdb
