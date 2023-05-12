@@ -1,0 +1,15 @@
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Mocking.Domain\bin\Debug\net6.0\Tap.Mocking.Domain.deps.json
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Mocking.Domain\bin\Debug\net6.0\Tap.Mocking.Domain.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Mocking.Domain\bin\Debug\net6.0\ref\Tap.Mocking.Domain.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Mocking.Domain\bin\Debug\net6.0\Tap.Mocking.Domain.pdb
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Mocking.Domain\bin\Debug\net6.0\Tap.Mocking.Repository.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Mocking.Domain\bin\Debug\net6.0\Tap.Mocking.Repository.pdb
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Mocking.Domain\obj\Debug\net6.0\Tap.Mocking.Domain.csproj.AssemblyReference.cache
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Mocking.Domain\obj\Debug\net6.0\Tap.Mocking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Mocking.Domain\obj\Debug\net6.0\Tap.Mocking.Domain.AssemblyInfoInputs.cache
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Mocking.Domain\obj\Debug\net6.0\Tap.Mocking.Domain.AssemblyInfo.cs
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Mocking.Domain\obj\Debug\net6.0\Tap.Mocking.Domain.csproj.CoreCompileInputs.cache
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Mocking.Domain\obj\Debug\net6.0\Tap.Mocking.Domain.csproj.CopyComplete
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Mocking.Domain\obj\Debug\net6.0\Tap.Mocking.Domain.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Mocking.Domain\obj\Debug\net6.0\ref\Tap.Mocking.Domain.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Mocking.Domain\obj\Debug\net6.0\Tap.Mocking.Domain.pdb

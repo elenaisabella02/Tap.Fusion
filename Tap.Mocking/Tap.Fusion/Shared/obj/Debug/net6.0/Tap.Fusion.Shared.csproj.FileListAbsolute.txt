@@ -1,0 +1,12 @@
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Shared\bin\Debug\net6.0\Tap.Fusion.Shared.deps.json
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Shared\bin\Debug\net6.0\Tap.Fusion.Shared.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Shared\bin\Debug\net6.0\ref\Tap.Fusion.Shared.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Shared\bin\Debug\net6.0\Tap.Fusion.Shared.pdb
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Shared\obj\Debug\net6.0\Tap.Fusion.Shared.csproj.AssemblyReference.cache
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Shared\obj\Debug\net6.0\Tap.Fusion.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Shared\obj\Debug\net6.0\Tap.Fusion.Shared.AssemblyInfoInputs.cache
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Shared\obj\Debug\net6.0\Tap.Fusion.Shared.AssemblyInfo.cs
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Shared\obj\Debug\net6.0\Tap.Fusion.Shared.csproj.CoreCompileInputs.cache
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Shared\obj\Debug\net6.0\Tap.Fusion.Shared.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Shared\obj\Debug\net6.0\ref\Tap.Fusion.Shared.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Shared\obj\Debug\net6.0\Tap.Fusion.Shared.pdb
