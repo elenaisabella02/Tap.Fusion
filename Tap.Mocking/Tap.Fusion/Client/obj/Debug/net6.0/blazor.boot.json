@@ -197,14 +197,14 @@
       "netstandard.dll": "sha256-E48Na3ZQWKExltzTwgP0Ao+UqWhiVYeerXfUL9lEc+c=",
       "System.Private.CoreLib.dll": "sha256-J85Z1XnwapHef31sR58JFq+0HrFP5BjOoObPKjdFHCw=",
       "Tap.Fusion.Shared.dll": "sha256-h6kZJ6LUSgE6lRHycSY3DxxfMse1Hc7yuZHFyiunvKU=",
-      "Tap.Fusion.Client.dll": "sha256-Iz+2\/p6wJDK7MP5v\/YPsad\/Xv\/rNL7VVvoTZGihsK5I="
+      "Tap.Fusion.Client.dll": "sha256-ngrP0zLAfFQt1dpMz1BIy\/xHAA\/uc8RT6YmCRPlaEIw="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "Tap.Fusion.Shared.pdb": "sha256-CHDlwloHSAXw3\/\/utNR6KQA58QbZAG9VQAzcEyEWPQE=",
-      "Tap.Fusion.Client.pdb": "sha256-peqBSEedxsQwwhvS3Zz8RBrN1ne\/W1ffqCEuOE68tjQ="
+      "Tap.Fusion.Client.pdb": "sha256-J7TSLKNpnmcgWPlcpBwXcxRJm1MBQjFKpSxgOrx8MKs="
     },
     "runtime": {
       "dotnet.6.0.0.qxst8yf4hi.js": "sha256-LOq52qjRa3+zt3w4UL10rS3UdwHxVQxW0JAsMPO9QAM=",
