@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q4I9uvkg7BrGc4E4iCsAcuI3k8ogMWUMkTCntkD+gjq+cyPvblwvIhSPAoXiSbLxO46CIlUouG8857ucGEjf2w==",
+  "dgSpecHash": "GliHzScctXDWRa/bjv3Xv4LrJkMW6JaII9WHRjVb7aqXmHwkzkGLo5O3rZpZDiPn7oijG71G2QP7sE8CpMw+ZQ==",
   "success": true,
-  "projectFilePath": "C:\\Facultate anul 2\\Tehnici avansate de programare\\PROIECT-FINAL\\Tap.Fusion\\Tap.Mocking\\Tap.Mocking.Repository\\Tap.Mocking.Repository.csproj",
+  "projectFilePath": "C:\\Users\\andre\\Source\\Repos\\Tap.Fusion\\Tap.Mocking\\Tap.Mocking.Repository\\Tap.Mocking.Repository.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Facultate anul 2\\Tehnici avansate de programare\\PROIECT-FINAL\\Tap.Fusion\\Tap.Mocking\\Tap.Mocking.Repository\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Tap.Fusion.Client.props" />
+</Project>

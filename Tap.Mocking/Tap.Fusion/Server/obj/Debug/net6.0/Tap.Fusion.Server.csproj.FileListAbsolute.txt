@@ -37,3 +37,47 @@ C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.
 C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\obj\Debug\net6.0\ref\Tap.Fusion.Server.dll
 C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\obj\Debug\net6.0\Tap.Fusion.Server.pdb
 C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\obj\Debug\net6.0\Tap.Fusion.Server.genruntimeconfig.cache
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Tap.Fusion.Client.staticwebassets.runtime.json
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Tap.Fusion.Server.staticwebassets.runtime.json
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Tap.Fusion.Server.exe
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Tap.Fusion.Server.deps.json
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Tap.Fusion.Server.runtimeconfig.json
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Tap.Fusion.Server.dll
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Tap.Fusion.Server.pdb
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Tap.Fusion.Client.dll
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Tap.Fusion.Shared.dll
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Tap.Fusion.Client.pdb
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Tap.Fusion.Shared.pdb
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\obj\Debug\net6.0\Tap.Fusion.Server.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\obj\Debug\net6.0\Tap.Fusion.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\obj\Debug\net6.0\Tap.Fusion.Server.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\obj\Debug\net6.0\Tap.Fusion.Server.AssemblyInfo.cs
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\obj\Debug\net6.0\Tap.Fusion.Server.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\obj\Debug\net6.0\Tap.Fusion.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\obj\Debug\net6.0\Tap.Fusion.Server.RazorAssemblyInfo.cache
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\obj\Debug\net6.0\Tap.Fusion.Server.RazorAssemblyInfo.cs
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\obj\Debug\net6.0\staticwebassets\msbuild.Tap.Fusion.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.Tap.Fusion.Server.props
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Tap.Fusion.Server.props
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Tap.Fusion.Server.props
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\obj\Debug\net6.0\scopedcss\bundle\Tap.Fusion.Server.styles.css
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\obj\Debug\net6.0\Tap.Fusion.Server.csproj.CopyComplete
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\obj\Debug\net6.0\Tap.Fusion.Server.dll
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\obj\Debug\net6.0\refint\Tap.Fusion.Server.dll
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\obj\Debug\net6.0\Tap.Fusion.Server.pdb
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\obj\Debug\net6.0\Tap.Fusion.Server.genruntimeconfig.cache
+C:\Users\andre\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\obj\Debug\net6.0\ref\Tap.Fusion.Server.dll

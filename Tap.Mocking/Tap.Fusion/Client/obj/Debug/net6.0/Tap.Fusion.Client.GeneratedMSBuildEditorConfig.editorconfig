@@ -5,47 +5,45 @@ build_property.UsingMicrosoftNETSdkWeb =
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = false
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = browser
-build_property.EnableSingleFileAnalyzer = 
-build_property.EnableTrimAnalyzer = true
-build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = Tap.Fusion.Client
 build_property.RootNamespace = Tap.Fusion.Client
-build_property.ProjectDir = C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Client\
+build_property.ProjectDir = C:\Users\andre\Source\Repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Client\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Client
+build_property.MSBuildProjectDirectory = C:\Users\andre\Source\Repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Client
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Facultate anul 2/Tehnici avansate de programare/PROIECT-FINAL/Tap.Fusion/Tap.Mocking/Tap.Fusion/Client/App.razor]
+[C:/Users/andre/Source/Repos/Tap.Fusion/Tap.Mocking/Tap.Fusion/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Facultate anul 2/Tehnici avansate de programare/PROIECT-FINAL/Tap.Fusion/Tap.Mocking/Tap.Fusion/Client/Pages/Bikes.razor]
+[C:/Users/andre/Source/Repos/Tap.Fusion/Tap.Mocking/Tap.Fusion/Client/Pages/Bikes.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmlrZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Facultate anul 2/Tehnici avansate de programare/PROIECT-FINAL/Tap.Fusion/Tap.Mocking/Tap.Fusion/Client/Pages/Index.razor]
+[C:/Users/andre/Source/Repos/Tap.Fusion/Tap.Mocking/Tap.Fusion/Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Facultate anul 2/Tehnici avansate de programare/PROIECT-FINAL/Tap.Fusion/Tap.Mocking/Tap.Fusion/Client/Pages/RentABike.razor]
+[C:/Users/andre/Source/Repos/Tap.Fusion/Tap.Mocking/Tap.Fusion/Client/Pages/RentABike.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVudEFCaWtlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Facultate anul 2/Tehnici avansate de programare/PROIECT-FINAL/Tap.Fusion/Tap.Mocking/Tap.Fusion/Client/Shared/SurveyPrompt.razor]
+[C:/Users/andre/Source/Repos/Tap.Fusion/Tap.Mocking/Tap.Fusion/Client/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Facultate anul 2/Tehnici avansate de programare/PROIECT-FINAL/Tap.Fusion/Tap.Mocking/Tap.Fusion/Client/_Imports.razor]
+[C:/Users/andre/Source/Repos/Tap.Fusion/Tap.Mocking/Tap.Fusion/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Facultate anul 2/Tehnici avansate de programare/PROIECT-FINAL/Tap.Fusion/Tap.Mocking/Tap.Fusion/Client/Shared/MainLayout.razor]
+[C:/Users/andre/Source/Repos/Tap.Fusion/Tap.Mocking/Tap.Fusion/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ecvohfknh8
 
-[C:/Facultate anul 2/Tehnici avansate de programare/PROIECT-FINAL/Tap.Fusion/Tap.Mocking/Tap.Fusion/Client/Shared/NavMenu.razor]
+[C:/Users/andre/Source/Repos/Tap.Fusion/Tap.Mocking/Tap.Fusion/Client/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-zsuccj1o4g
