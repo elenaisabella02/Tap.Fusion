@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\andre\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Dell\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\Source\\Repos\\Tap.Fusion\\Tap.Mocking\\Tap.Mocking.Repository\\Tap.Mocking.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Source\\Repos\\Tap.Fusion\\Tap.Mocking\\Tap.Mocking.Repository\\Tap.Mocking.Repository.csproj",
       "projectName": "Tap.Mocking.Repository",
-      "projectPath": "C:\\Users\\andre\\Source\\Repos\\Tap.Fusion\\Tap.Mocking\\Tap.Mocking.Repository\\Tap.Mocking.Repository.csproj",
-      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\Source\\Repos\\Tap.Fusion\\Tap.Mocking\\Tap.Mocking.Repository\\obj\\",
+      "projectPath": "C:\\Users\\Dell\\Source\\Repos\\Tap.Fusion\\Tap.Mocking\\Tap.Mocking.Repository\\Tap.Mocking.Repository.csproj",
+      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dell\\Source\\Repos\\Tap.Fusion\\Tap.Mocking\\Tap.Mocking.Repository\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
