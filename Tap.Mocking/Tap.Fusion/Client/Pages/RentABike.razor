@@ -3,6 +3,9 @@
 @inject HttpClient Http
 @inject IJSRuntime JSRuntime
 @using Microsoft.JSInterop
+@using Microsoft.AspNetCore.SignalR.Client;
+@inject NavigationManager Navigation
+
 
 <PageTitle>Rent a Bike</PageTitle>
 <style>
@@ -58,17 +61,20 @@
 	private int rentalHours;
 	private int totalPriceCity = 0;
 	private int totalPriceMountain = 0;
+	HubConnection? connection;
 
 	protected override async Task OnInitializedAsync()
 	{
 		dataSource = await Http.GetFromJsonAsync<List<AppData>>("AppData");
+		connection = new HubConnectionBuilder().WithUrl(Navigation.ToAbsoluteUri("schedulerhub")).Build();
+		await connection.StartAsync();
 	}
+
 
 	private void CalculatePrice()
 	{
 		if (rentalHours > 48)
 		{
-			// Display an alert if the number of hours is greater than 48
 			totalPriceCity = 0;
 			totalPriceMountain = 0;
 			ShowAlert("Numărul de ore trebuie să fie mai mic sau egal cu 48!");
@@ -90,7 +96,6 @@
 
 	private void ShowAlert(string message)
     {
-        // Display an alert using JavaScript interop
         JSRuntime.InvokeVoidAsync("alert", message);
     }
 }
