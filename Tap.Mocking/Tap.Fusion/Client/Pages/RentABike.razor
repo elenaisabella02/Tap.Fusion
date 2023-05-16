@@ -4,4 +4,16 @@
 
 <PageTitle>Rent a Bike</PageTitle>
 
-<SfSchedule Height ="550" TValue="Object"></SfSchedule>
+<SfSchedule Height ="550" TValue="AppData">
+	<ScheduleEventSettings DataSource="@dataSource"></ScheduleEventSettings>
+</SfSchedule>
+
+@code{
+	private List<AppData>? dataSource;
+
+	protected override async Task OnInitializedAsync()
+	{
+		dataSource = await Http.GetFromJsonAsync<List<AppData>>("AppData");
+
+	}
+}
