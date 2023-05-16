@@ -57,6 +57,10 @@
               "target": "Package",
               "version": "[6.0.0, )"
             },
+            "Microsoft.JSInterop": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
             "Syncfusion.Blazor.Schedule": {
               "target": "Package",
               "version": "[21.2.5, )"

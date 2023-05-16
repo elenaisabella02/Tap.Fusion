@@ -58,7 +58,7 @@
           "Microsoft.AspNetCore.Components": "6.0.5",
           "Microsoft.AspNetCore.Components.Forms": "6.0.5",
           "Microsoft.Extensions.DependencyInjection": "6.0.0",
-          "Microsoft.JSInterop": "6.0.5",
+          "Microsoft.JSInterop": "6.0.16",
           "System.IO.Pipelines": "6.0.3"
         },
         "runtime": {
@@ -181,17 +181,17 @@
           "System.Runtime.CompilerServices.Unsafe": "6.0.0"
         }
       },
-      "Microsoft.JSInterop/6.0.5": {
+      "Microsoft.JSInterop/6.0.16": {
         "runtime": {
           "lib/net6.0/Microsoft.JSInterop.dll": {
             "assemblyVersion": "6.0.0.0",
-            "fileVersion": "6.0.522.21802"
+            "fileVersion": "6.0.1623.17406"
           }
         }
       },
       "Microsoft.JSInterop.WebAssembly/6.0.0": {
         "dependencies": {
-          "Microsoft.JSInterop": "6.0.5"
+          "Microsoft.JSInterop": "6.0.16"
         },
         "runtime": {
           "lib/net6.0/Microsoft.JSInterop.WebAssembly.dll": {
@@ -432,6 +432,7 @@
       "Tap.Fusion.Client/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Components.WebAssembly": "6.0.0",
+          "Microsoft.JSInterop": "6.0.16",
           "Syncfusion.Blazor.Schedule": "21.2.5",
           "Syncfusion.Blazor.Themes": "21.2.5",
           "Tap.Fusion.Shared": "1.0.0"
@@ -607,12 +608,12 @@
       "path": "microsoft.extensions.primitives/6.0.0",
       "hashPath": "microsoft.extensions.primitives.6.0.0.nupkg.sha512"
     },
-    "Microsoft.JSInterop/6.0.5": {
+    "Microsoft.JSInterop/6.0.16": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-ST48YNjqpW2WNbTFBN5V3fdpnV8Civ6VeewzGtKdtYtBtM0q5afQVnUOwx3w5oeBZNQjn2nk3OZM1tSe10x4lA==",
-      "path": "microsoft.jsinterop/6.0.5",
-      "hashPath": "microsoft.jsinterop.6.0.5.nupkg.sha512"
+      "sha512": "sha512-57qernFFApJ+CsA/Mn53TJ9QSreucgfyf91ESBwsIifaG6o9hN56y4VsJ9P0RFbNRbpz+KstKUj/U1HK5tqiGQ==",
+      "path": "microsoft.jsinterop/6.0.16",
+      "hashPath": "microsoft.jsinterop.6.0.16.nupkg.sha512"
     },
     "Microsoft.JSInterop.WebAssembly/6.0.0": {
       "type": "package",

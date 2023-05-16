@@ -1,19 +1,96 @@
 ﻿@page "/rentabike"
 @using Tap.Fusion.Shared
 @inject HttpClient Http
+@inject IJSRuntime JSRuntime
+@using Microsoft.JSInterop
 
 <PageTitle>Rent a Bike</PageTitle>
-
-<SfSchedule Height ="550" TValue="AppData">
+<style>
+		body{
+		background-image:url("https://img.freepik.com/free-photo/green-park-view_1417-1492.jpg");
+		background-repeat:no-repeat;
+		  background-size: cover;
+		  backdrop-filter: blur(5px);
+	}
+</style>
+<body>
+<div class="text-center">
+	<h2>Închiriază bicicleta</h2>
+</div>
+<form style="font-size:20px;">
+  Alege bicileta dorită:
+  <div class="row">
+	 <div class="col-6">
+		<input type="radio" id="citybike" name="bike" />
+ 			<label for="citybike">City Bike</label>
+	</div>
+	<div class="col-6">
+		<input type="radio" id="mountainbike" name="bike" />
+			<label for="mountainbike">Mountain Bike</label>
+	</div>
+  </div>
+</form>
+<br />
+<h5>
+  Bicicletele nu pot fi închiriate mai mult de 48 de ore
+  <br />
+  <small class="text-muted" style="font-size:15px;">Bicicletele închiriate pentru mai mult de 4 ore primesc 15% discount!</small>
+</h5>
+<br />
+<div style="font-size:20px;">
+	Câte ore doriți să închiriați bicicleta?
+	<input type="number" id="hours" name="hours" max="48" @bind="rentalHours" />
+	<br />
+	Calculează prețul total:
+	<button @onclick="CalculatePrice" class="btn btn-succes">Calculează</button>
+	<br />
+	Prețul total: 
+	<br />@totalPriceCity pentru CityBike 
+	<br />@totalPriceMountain pentru MountainBike
+</div>
+<br />
+<SfSchedule Height="550" TValue="AppData">
 	<ScheduleEventSettings DataSource="@dataSource"></ScheduleEventSettings>
 </SfSchedule>
-
+</body>
 @code{
 	private List<AppData>? dataSource;
+	private int rentalHours;
+	private int totalPriceCity = 0;
+	private int totalPriceMountain = 0;
 
 	protected override async Task OnInitializedAsync()
 	{
 		dataSource = await Http.GetFromJsonAsync<List<AppData>>("AppData");
-
 	}
+
+	private void CalculatePrice()
+	{
+		if (rentalHours > 48)
+		{
+			// Display an alert if the number of hours is greater than 48
+			totalPriceCity = 0;
+			totalPriceMountain = 0;
+			ShowAlert("Numărul de ore trebuie să fie mai mic sau egal cu 48!");
+		}
+		else
+		{
+			if (rentalHours < 4)
+			{
+				totalPriceCity = rentalHours * 5;
+				totalPriceMountain = rentalHours * 10;
+			}
+			else
+			{
+				totalPriceCity = (rentalHours * 5) * 85 / 100;
+				totalPriceMountain = (rentalHours * 10) * 85 / 100;
+			}
+        }
+    }
+
+	private void ShowAlert(string message)
+    {
+        // Display an alert using JavaScript interop
+        JSRuntime.InvokeVoidAsync("alert", message);
+    }
 }

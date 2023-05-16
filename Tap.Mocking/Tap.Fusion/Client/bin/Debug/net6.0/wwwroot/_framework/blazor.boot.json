@@ -27,7 +27,7 @@
       "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-w+c+xfLh8QIAwluhugyPc8sPvAmmIC\/UTxnugT7Oido=",
       "Microsoft.Extensions.Options.dll": "sha256-eGESyy9mRu8RcCGajAu4E8nxSmeB5nxiZkFPVaZ5Vl0=",
       "Microsoft.Extensions.Primitives.dll": "sha256-jOmoWSfsdQexH\/6QCA56gR1RMEqeix2iDDUBWbpAOQI=",
-      "Microsoft.JSInterop.dll": "sha256-OBL83ANjfum7vDXWY9JzTSOLSr5DTTajTez0w\/70pAc=",
+      "Microsoft.JSInterop.dll": "sha256-ALn8NC3hrTKXR7eHxOPax8hsoVRUDr+2fn6cTY635kE=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-Eh7KdjwbmVGTRNSYsrftwhWuXuPvYdIGlsDUtyEZRNg=",
       "Syncfusion.Blazor.Buttons.dll": "sha256-Id4Romm9aZpZtte9+nvWpycfrq68gSXn8fASr54sRWA=",
       "Syncfusion.Blazor.Calendars.dll": "sha256-9CxtmiLXg1zWZVMN+DJvDFRLmBouCMoOJGYUE+bOIuY=",
@@ -213,14 +213,14 @@
       "netstandard.dll": "sha256-E48Na3ZQWKExltzTwgP0Ao+UqWhiVYeerXfUL9lEc+c=",
       "System.Private.CoreLib.dll": "sha256-J85Z1XnwapHef31sR58JFq+0HrFP5BjOoObPKjdFHCw=",
       "Tap.Fusion.Shared.dll": "sha256-vj75Q7Q58luqyP97uHeWmGHnrrbCxMf\/vdwEJEBFnZA=",
-      "Tap.Fusion.Client.dll": "sha256-q7+QewHCKYLcG5QzL4jCYXTd5YkGyMcc0J41pKPh0Vw="
+      "Tap.Fusion.Client.dll": "sha256-Fh5xJHeH+UjDxzzku+WDtQDx\/tfwWuqXNx4j\/wGQStc="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "Tap.Fusion.Shared.pdb": "sha256-6N6OTotW7Sd10c5AaL5IfzsN53uYnGd4HP9IGg5Lguk=",
-      "Tap.Fusion.Client.pdb": "sha256-LYM0xIHcKaedoJbIgeIK9YOyeBTTb+iQ7NsC4wOl\/8c="
+      "Tap.Fusion.Client.pdb": "sha256-lWc3czixu\/GJSgJprEhq9luCfwBumJxZQXDw+oJo\/Xk="
     },
     "runtime": {
       "dotnet.6.0.0.qxst8yf4hi.js": "sha256-LOq52qjRa3+zt3w4UL10rS3UdwHxVQxW0JAsMPO9QAM=",

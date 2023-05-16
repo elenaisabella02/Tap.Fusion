@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "K4PpOltc3k1/7fEaWJmN+buFd4YqbjbW1I2GxToR39r8mNVcsyPUTHnzZ5kkC5ssJZfSTq7KSUW1yvS+0sCD2Q==",
+  "dgSpecHash": "h/rjSotVCfMhf7kmxMLsO79seKcRuo8Ss5vpLc5ZtsBSDEEXUU+JhDKmiZFHp+TsLIVUUwMQloODcvN8Usdjkg==",
   "success": true,
   "projectFilePath": "C:\\Facultate anul 2\\Tehnici avansate de programare\\PROIECT-FINAL\\Tap.Fusion\\Tap.Mocking\\Tap.Fusion\\Server\\Tap.Fusion.Server.csproj",
   "expectedPackageFiles": [
@@ -26,7 +26,7 @@
     "C:\\Users\\Isabella\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
     "C:\\Users\\Isabella\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\Isabella\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "C:\\Users\\Isabella\\.nuget\\packages\\microsoft.jsinterop\\6.0.5\\microsoft.jsinterop.6.0.5.nupkg.sha512",
+    "C:\\Users\\Isabella\\.nuget\\packages\\microsoft.jsinterop\\6.0.16\\microsoft.jsinterop.6.0.16.nupkg.sha512",
     "C:\\Users\\Isabella\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.0\\microsoft.jsinterop.webassembly.6.0.0.nupkg.sha512",
     "C:\\Users\\Isabella\\.nuget\\packages\\syncfusion.blazor.buttons\\21.2.5\\syncfusion.blazor.buttons.21.2.5.nupkg.sha512",
     "C:\\Users\\Isabella\\.nuget\\packages\\syncfusion.blazor.calendars\\21.2.5\\syncfusion.blazor.calendars.21.2.5.nupkg.sha512",

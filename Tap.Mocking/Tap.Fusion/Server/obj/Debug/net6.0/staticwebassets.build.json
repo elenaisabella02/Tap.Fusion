@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QJWUAI+c8/DGFqvXlcLOy7Rd5o81a21uBEuey4suhdU=",
+  "Hash": "P0IliGDBCoE8qAdr1KNIgJL/TXrlt9ArIe5LRPT5NYM=",
   "Source": "Tap.Fusion.Server",
   "BasePath": "_content/Tap.Fusion.Server",
   "Mode": "Default",
@@ -553,7 +553,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Isabella\\.nuget\\packages\\microsoft.jsinterop\\6.0.5\\lib\\net6.0\\Microsoft.JSInterop.dll"
+      "OriginalItemSpec": "C:\\Users\\Isabella\\.nuget\\packages\\microsoft.jsinterop\\6.0.16\\lib\\net6.0\\Microsoft.JSInterop.dll"
     },
     {
       "Identity": "C:\\Facultate anul 2\\Tehnici avansate de programare\\PROIECT-FINAL\\Tap.Fusion\\Tap.Mocking\\Tap.Fusion\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
@@ -4143,23 +4143,6 @@
       "OriginalItemSpec": "C:\\Facultate anul 2\\Tehnici avansate de programare\\PROIECT-FINAL\\Tap.Fusion\\Tap.Mocking\\Tap.Fusion\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.RegularExpressions.dll"
     },
     {
-      "Identity": "C:\\Facultate anul 2\\Tehnici avansate de programare\\PROIECT-FINAL\\Tap.Fusion\\Tap.Mocking\\Tap.Fusion\\Client\\obj\\Debug\\net6.0\\build-gz\\4+WzsWBh.gz",
-      "SourceId": "Tap.Fusion.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Facultate anul 2\\Tehnici avansate de programare\\PROIECT-FINAL\\Tap.Fusion\\Tap.Mocking\\Tap.Fusion\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Facultate anul 2\\Tehnici avansate de programare\\PROIECT-FINAL\\Tap.Fusion\\Tap.Mocking\\Tap.Fusion\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Facultate anul 2\\Tehnici avansate de programare\\PROIECT-FINAL\\Tap.Fusion\\Tap.Mocking\\Tap.Fusion\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
-    },
-    {
       "Identity": "C:\\Facultate anul 2\\Tehnici avansate de programare\\PROIECT-FINAL\\Tap.Fusion\\Tap.Mocking\\Tap.Fusion\\Client\\obj\\Debug\\net6.0\\build-gz\\4eERwfq4.gz",
       "SourceId": "Tap.Fusion.Client",
       "SourceType": "Project",
@@ -6147,6 +6130,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Facultate anul 2\\Tehnici avansate de programare\\PROIECT-FINAL\\Tap.Fusion\\Tap.Mocking\\Tap.Fusion\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Globalization.Extensions.dll"
+    },
+    {
+      "Identity": "C:\\Facultate anul 2\\Tehnici avansate de programare\\PROIECT-FINAL\\Tap.Fusion\\Tap.Mocking\\Tap.Fusion\\Client\\obj\\Debug\\net6.0\\build-gz\\P8a4wla+.gz",
+      "SourceId": "Tap.Fusion.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Facultate anul 2\\Tehnici avansate de programare\\PROIECT-FINAL\\Tap.Fusion\\Tap.Mocking\\Tap.Fusion\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Facultate anul 2\\Tehnici avansate de programare\\PROIECT-FINAL\\Tap.Fusion\\Tap.Mocking\\Tap.Fusion\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Facultate anul 2\\Tehnici avansate de programare\\PROIECT-FINAL\\Tap.Fusion\\Tap.Mocking\\Tap.Fusion\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
     },
     {
       "Identity": "C:\\Facultate anul 2\\Tehnici avansate de programare\\PROIECT-FINAL\\Tap.Fusion\\Tap.Mocking\\Tap.Fusion\\Client\\obj\\Debug\\net6.0\\build-gz\\pcMsbPYX.gz",

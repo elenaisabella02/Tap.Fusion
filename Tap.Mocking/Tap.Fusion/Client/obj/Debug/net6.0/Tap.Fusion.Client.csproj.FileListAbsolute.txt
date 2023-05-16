@@ -2523,7 +2523,6 @@ C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.
 C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Client\obj\Debug\net6.0\build-gz\uuEgyL9Y.gz
 C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Client\obj\Debug\net6.0\build-gz\cX+YMN41.gz
 C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Client\obj\Debug\net6.0\build-gz\Jge5V+Cv.gz
-C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Client\obj\Debug\net6.0\build-gz\4+WzsWBh.gz
 C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Client\obj\Debug\net6.0\build-gz\levXtZxo.gz
 C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Client\obj\Debug\net6.0\build-gz\KoyG5X0n.gz
 C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Client\obj\Debug\net6.0\build-gz\vShDDPyP.gz
@@ -2541,3 +2540,4 @@ C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.
 C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Client\obj\Debug\net6.0\build-gz\F3+9QIPx.gz
 C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Client\obj\Debug\net6.0\build-gz\meevYFit.gz
 C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Client\obj\Debug\net6.0\build-gz\YNnH+29k.gz
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Client\obj\Debug\net6.0\build-gz\P8a4wla+.gz
