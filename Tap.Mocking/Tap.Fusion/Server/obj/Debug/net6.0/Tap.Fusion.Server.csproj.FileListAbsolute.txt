@@ -125,3 +125,27 @@ C:\Users\Dell\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\obj\Debug\ne
 C:\Users\Dell\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\obj\Debug\net6.0\Tap.Fusion.Server.pdb
 C:\Users\Dell\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\obj\Debug\net6.0\Tap.Fusion.Server.genruntimeconfig.cache
 C:\Users\Dell\source\repos\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\obj\Debug\net6.0\ref\Tap.Fusion.Server.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Syncfusion.Blazor.Buttons.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Syncfusion.Blazor.Calendars.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Syncfusion.Blazor.Core.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Syncfusion.Blazor.Data.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Syncfusion.Blazor.DropDowns.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Syncfusion.Blazor.Inputs.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Syncfusion.Blazor.Lists.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Syncfusion.Blazor.Navigations.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Syncfusion.Blazor.Notifications.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Syncfusion.Blazor.Popups.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Syncfusion.Blazor.Schedule.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Syncfusion.Blazor.Spinner.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Syncfusion.Blazor.SplitButtons.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Syncfusion.Blazor.Themes.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Syncfusion.ExcelExport.Net.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\Syncfusion.Licensing.dll
+C:\Facultate anul 2\Tehnici avansate de programare\PROIECT-FINAL\Tap.Fusion\Tap.Mocking\Tap.Fusion\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
