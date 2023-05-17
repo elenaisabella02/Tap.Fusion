@@ -69,15 +69,17 @@
 	{
 		dataSource = await Http.GetFromJsonAsync<List<AppData>>("AppData");
 		connection = new HubConnectionBuilder().WithUrl(Navigation.ToAbsoluteUri("schedulerhub")).Build();
-		connection.On<string, List<AppData>, List<AppData>, List<AppData>>("ReceivedData", onDataChange);
+		//connection.On<string, List<AppData>, List<AppData>, List<AppData>>("ReceivedData", onDataChange);
 		await connection.StartAsync();
 	}
 
-	public void OnActionComplete(ActionEventArgs<AppData> args)
+	public EventCallback<ActionEventArgs<AppData>> OnActionComplete => EventCallback.Factory.Create<ActionEventArgs<AppData>>(this, HandleActionComplete);
+
+	 public async Task HandleActionComplete(ActionEventArgs<AppData> args)
 	{
 		if(args.ActionType == ActionType.EventCreate || args.ActionType == ActionType.EventChange || args.ActionType == ActionType.EventRemove)
 		{
-			connection.InvokeAsync("SendData", userName, args.AddedRecords, args.ChangedRecords, args.DeletedRecords);
+			await connection.InvokeAsync("SendData", userName, args.AddedRecords, args.ChangedRecords, args.DeletedRecords);
 
 		}
 	}
