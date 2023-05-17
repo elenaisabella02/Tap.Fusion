@@ -54,6 +54,7 @@
 <br />
 <SfSchedule Height="550" TValue="AppData">
 	<ScheduleEventSettings DataSource="@dataSource"></ScheduleEventSettings>
+	<ScheduleEvents ActionCompleted="OnActionComplete"></ScheduleEvents>
 </SfSchedule>
 </body>
 @code{
@@ -62,14 +63,24 @@
 	private int totalPriceCity = 0;
 	private int totalPriceMountain = 0;
 	HubConnection? connection;
+	private string? userName;
 
 	protected override async Task OnInitializedAsync()
 	{
 		dataSource = await Http.GetFromJsonAsync<List<AppData>>("AppData");
 		connection = new HubConnectionBuilder().WithUrl(Navigation.ToAbsoluteUri("schedulerhub")).Build();
+		connection.On<string, List<AppData>, List<AppData>, List<AppData>>("ReceivedData", onDataChange);
 		await connection.StartAsync();
 	}
 
+	public void OnActionComplete(ActionEventArgs<AppData> args)
+	{
+		if(args.ActionType == ActionType.EventCreate || args.ActionType == ActionType.EventChange || args.ActionType == ActionType.EventRemove)
+		{
+			connection.InvokeAsync("SendData", userName, args.AddedRecords, args.ChangedRecords, args.DeletedRecords);
+
+		}
+	}
 
 	private void CalculatePrice()
 	{
