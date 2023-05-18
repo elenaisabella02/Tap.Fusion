@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eR8Pi2ZTrOHUMzsxZ3R8NrjN6xpLg+rr/Fx7x8H4EofhIh7B2aGhJF84kkPis/6XLldPuUuPAzP0CrW0qyw4rw==",
+  "dgSpecHash": "KSQnUIdwLLJoLEMnOGWgPHvkSG1seqEGnw9bxZvWFosR4XdBcJHji0AhutX5n9x3w0JhVL7so7kIKZrvjEfe1A==",
   "success": true,
-  "projectFilePath": "C:\\Facultate anul 2\\Tehnici avansate de programare\\PROIECT-FINAL\\Tap.Fusion\\Tap.Mocking\\Tap.Fusion\\Client\\Tap.Fusion.Client.csproj",
+  "projectFilePath": "C:\\Users\\Isabella\\Desktop\\Tap.Mocking-FINAL\\Tap.Fusion\\Client\\Tap.Fusion.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Isabella\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.5\\microsoft.aspnetcore.authorization.6.0.5.nupkg.sha512",
     "C:\\Users\\Isabella\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.5\\microsoft.aspnetcore.components.6.0.5.nupkg.sha512",
@@ -34,7 +34,7 @@
     "C:\\Users\\Isabella\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Isabella\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
     "C:\\Users\\Isabella\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
-    "C:\\Users\\Isabella\\.nuget\\packages\\microsoft.jsinterop\\6.0.16\\microsoft.jsinterop.6.0.16.nupkg.sha512",
+    "C:\\Users\\Isabella\\.nuget\\packages\\microsoft.jsinterop\\6.0.5\\microsoft.jsinterop.6.0.5.nupkg.sha512",
     "C:\\Users\\Isabella\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.0\\microsoft.jsinterop.webassembly.6.0.0.nupkg.sha512",
     "C:\\Users\\Isabella\\.nuget\\packages\\syncfusion.blazor.buttons\\21.2.5\\syncfusion.blazor.buttons.21.2.5.nupkg.sha512",
     "C:\\Users\\Isabella\\.nuget\\packages\\syncfusion.blazor.calendars\\21.2.5\\syncfusion.blazor.calendars.21.2.5.nupkg.sha512",

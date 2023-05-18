@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Facultate anul 2\\Tehnici avansate de programare\\PROIECT-FINAL\\Tap.Fusion\\Tap.Mocking\\Tap.Fusion\\Shared\\Tap.Fusion.Shared.csproj": {}
+    "C:\\Users\\Isabella\\Desktop\\Tap.Mocking-FINAL\\Tap.Fusion\\Shared\\Tap.Fusion.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Facultate anul 2\\Tehnici avansate de programare\\PROIECT-FINAL\\Tap.Fusion\\Tap.Mocking\\Tap.Fusion\\Shared\\Tap.Fusion.Shared.csproj": {
+    "C:\\Users\\Isabella\\Desktop\\Tap.Mocking-FINAL\\Tap.Fusion\\Shared\\Tap.Fusion.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Facultate anul 2\\Tehnici avansate de programare\\PROIECT-FINAL\\Tap.Fusion\\Tap.Mocking\\Tap.Fusion\\Shared\\Tap.Fusion.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Isabella\\Desktop\\Tap.Mocking-FINAL\\Tap.Fusion\\Shared\\Tap.Fusion.Shared.csproj",
         "projectName": "Tap.Fusion.Shared",
-        "projectPath": "C:\\Facultate anul 2\\Tehnici avansate de programare\\PROIECT-FINAL\\Tap.Fusion\\Tap.Mocking\\Tap.Fusion\\Shared\\Tap.Fusion.Shared.csproj",
+        "projectPath": "C:\\Users\\Isabella\\Desktop\\Tap.Mocking-FINAL\\Tap.Fusion\\Shared\\Tap.Fusion.Shared.csproj",
         "packagesPath": "C:\\Users\\Isabella\\.nuget\\packages\\",
-        "outputPath": "C:\\Facultate anul 2\\Tehnici avansate de programare\\PROIECT-FINAL\\Tap.Fusion\\Tap.Mocking\\Tap.Fusion\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\Isabella\\Desktop\\Tap.Mocking-FINAL\\Tap.Fusion\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

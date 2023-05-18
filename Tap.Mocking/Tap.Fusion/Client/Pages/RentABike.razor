@@ -52,11 +52,24 @@
 	<br />@totalPriceMountain pentru MountainBike
 </div>
 <br />
-<SfSchedule Height="550" TValue="AppData">
+<div class ="form-group">
+	<label>User:
+		<input @bind="userName" />
+	</label>
+</div>
+
+<SfSchedule Height ="550" TValue="AppData">
 	<ScheduleEventSettings DataSource="@dataSource"></ScheduleEventSettings>
-	<ScheduleEvents ActionCompleted="OnActionComplete"></ScheduleEvents>
+    <ScheduleEvents ActionCompleted="OnActionComplete"></ScheduleEvents>
 </SfSchedule>
+<hr />
+@foreach(var message in messages)
+{
+	<SfMessage Severity="MessageSeverity.Info">@message</SfMessage>
+
+}
 </body>
+
 @code{
 	private List<AppData>? dataSource;
 	private int rentalHours;
@@ -64,27 +77,67 @@
 	private int totalPriceMountain = 0;
 	HubConnection? connection;
 	private string? userName;
-
+	List<string> messages = new List<string>();
 	protected override async Task OnInitializedAsync()
 	{
 		dataSource = await Http.GetFromJsonAsync<List<AppData>>("AppData");
-		connection = new HubConnectionBuilder().WithUrl(Navigation.ToAbsoluteUri("schedulerhub")).Build();
-		//connection.On<string, List<AppData>, List<AppData>, List<AppData>>("ReceivedData", onDataChange);
+		connection = new HubConnectionBuilder().WithUrl(Navigation.ToAbsoluteUri("/schedulerhub")).Build();
+		connection.On<string, List<AppData>, List<AppData>, List<AppData>>("ReceiveData", OnDataChange);
 		await connection.StartAsync();
 	}
 
 	public EventCallback<ActionEventArgs<AppData>> OnActionComplete => EventCallback.Factory.Create<ActionEventArgs<AppData>>(this, HandleActionComplete);
 
-	 public async Task HandleActionComplete(ActionEventArgs<AppData> args)
+	public async Task HandleActionComplete(ActionEventArgs<AppData> args)
 	{
-		if(args.ActionType == ActionType.EventCreate || args.ActionType == ActionType.EventChange || args.ActionType == ActionType.EventRemove)
+		if (args.ActionType == ActionType.EventCreate || args.ActionType == ActionType.EventRemove || args.ActionType == ActionType.EventChange)
 		{
 			await connection.InvokeAsync("SendData", userName, args.AddedRecords, args.ChangedRecords, args.DeletedRecords);
-
 		}
 	}
 
+	Task OnDataChange(string user, List<AppData> addedData, List<AppData> changedData, List<AppData> deletedData)
+	{
+		string msg = "";
+		List<AppData> appData = dataSource.ToList();
 
+		if (addedData != null && addedData.Count > 0)
+		{
+			foreach (AppData data in addedData)
+			{
+				appData.Add(data);
+				msg = "added new reservation with subject " + data.Subject;
+			}
+		}
+		else if (changedData != null && changedData.Count > 0)
+		{
+			foreach (AppData data in changedData)
+			{
+				int index = appData.FindIndex(m => m.Id == data.Id);
+				if(index >= 0)
+				{
+					appData[index] = data;
+					msg = "edited a reservation with subject " + appData[index].Subject;
+				}
+			}
+		}
+		else if (deletedData != null && deletedData.Count > 0)
+		{
+			foreach (AppData data in deletedData)
+			{
+				int index = appData.FindIndex(m => m.Id == data.Id);
+				if(index >= 0)
+				{
+					msg = "deleted a reservation with subject " + appData[index].Subject;
+					appData.RemoveAt(index);
+				}
+			}
+		}
+		this.dataSource = appData;
+		messages.Add($"{user} {msg}");
+		this.StateHasChanged();
+		return Task.CompletedTask;
+	}
 
 	private void CalculatePrice()
 	{
@@ -113,4 +166,5 @@
     {
         JSRuntime.InvokeVoidAsync("alert", message);
     }
+
 }

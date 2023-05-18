@@ -10,7 +10,6 @@ builder.Services.AddResponseCompression(opts =>
     opts.MimeTypes = ResponseCompressionDefaults.MimeTypes.Concat(
         new[] { "application/octet-stream" });
 });
-
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
 
